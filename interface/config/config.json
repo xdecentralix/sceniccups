@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x9D477A1Ca81B928D5C2397EbfF86c495401C7ff7",
+  "SCAN_LINK": "https://optimistic.etherscan.io/address/0x9D477A1Ca81B928D5C2397EbfF86c495401C7ff7",
+  "NETWORK": {
+    "NAME": "Optimism Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 10
+  },
+  "NFT_NAME": "Scenic Cups",
+  "SYMBOL": "SC",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 80000000000000000,
+  "INCREMENT_WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.08,
+  "INCREMENT_DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Quixotic",
+  "MARKETPLACE_LINK": "https://quixotic.io/collection/0x9D477A1Ca81B928D5C2397EbfF86c495401C7ff7",
+  "SHOW_BACKGROUND": true
+}
